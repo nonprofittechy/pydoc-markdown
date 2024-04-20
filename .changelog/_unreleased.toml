@@ -31,6 +31,7 @@ id = "f3ee1a25-3e4d-4917-b3b9-7ace18f6f9f0"
 type = "improvement"
 description = "Add option to escape { in markdown for compatibility with MDX >= 2"
 author = "qsteenhuis@gmail.com"
+pr = "https://github.com/NiklasRosenstein/pydoc-markdown/pull/326"
 issues = [
     "https://github.com/nonprofittechy/pydoc-markdown/issues/325",
 ]
